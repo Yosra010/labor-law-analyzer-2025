@@ -1,2 +1,5 @@
-# labor-law-analyzer-2025
- Web app to analyze Egyptian Labor Law 2025 with articles, analysis, and related links.
+# منصة تحليل قانون العمل المصري 2025 (Placeholder كامل)
+هذا مشروع جاهز يعرض 200 مادة Placeholder.
+- افتحي index.html لمعاينته محليًا.
+- عدلي data.js لإضافة النصوص والتحليلات الحقيقية لكل مادة.
+- لرفعه: أنشئي Repository في GitHub، ارفعي الملفات، ثم فعّلي GitHub Pages.
